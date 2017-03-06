@@ -2049,7 +2049,8 @@ section {
     margin: 0 auto;
     width: 130px;
     height: 130px;
-    position: relative; }
+    position: relative;
+    display:none; }
 #circle-skills .progressbar.semicircle #circle1, #circle-skills .progressbar.semicircle #circle2, #circle-skills .progressbar.semicircle #circle3, #circle-skills .progressbar.semicircle #circle4 {
   padding-top: 24px; }
 #circle-skills .progressbar.semicircle .progressbar-text {
@@ -2180,8 +2181,8 @@ section {
     opacity: .6; }
 #pro-experience.dark li.position {
   color: #ffffff; }
-#pro-experience.dark a, #pro-experience.dark a:hover, #pro-experience.dark a:focus {
-  color: #ffffff; }
+/* #pro-experience.dark a, #pro-experience.dark a:hover, #pro-experience.dark a:focus {
+  color: #ffffff; } */
 #pro-experience.dark a i::before {
   color: #ffffff; }
 

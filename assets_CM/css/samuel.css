@@ -16,23 +16,47 @@
   transition: all .5s ease-in-out; }
 
 .timeline-samuel-01 {
-  background: url("../../images/layouts/samuel/timeline/01.jpg");
+  background: url("../images/J4GDesignLogo.jpg");
   background-position: center;
   background-size: cover; }
 
 .timeline-samuel-02 {
-  background: url("../../images/layouts/samuel/timeline/02.jpg");
+  background: url("../images/PA_Consulting_Group_logo.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-samuel-03 {
-  background: url("../../images/layouts/samuel/timeline/03.jpg");
+  background: url("../images/AdgisticsLogo.jpg");
   background-position: center;
   background-size: cover; }
 
 .timeline-samuel-04 {
-  background: url("../../images/layouts/samuel/timeline/04.jpg");
+  background: url("../images/betfairLogo.jpg");
   background-position: center;
   background-size: cover; }
 
 /*# sourceMappingURL=samuel.css.map */
+
+a.timeline-header-link {
+    font-size: 22px;
+}
+
+.skillsBlock {
+  background: url("../images/Illustrator.png");
+  height:250px;
+  background-position: center;
+  background-size: cover;
+}
+
+.skillsBlock .label {
+    text-align: center;
+    background-color:rgba(52,152,219,0.6);
+    bottom:0;
+    width:100%;
+    position:absolute;
+    padding:5% 0;
+}
+
+.skillsBlock .label p {
+    color:#ffffff;
+}
