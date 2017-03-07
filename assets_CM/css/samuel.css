@@ -42,10 +42,22 @@ a.timeline-header-link {
 }
 
 .skillsBlock {
-  background: url("../images/Illustrator.png");
   height:250px;
   background-position: center;
   background-size: cover;
+    margin:10px!important;
+}
+
+.AdobePS {
+      background: url("../images/Photoshop.png");
+}
+
+.AdobeAI {
+    background: url("../images/Illustrator.png");
+}
+
+.AdobeID {
+    background: url("../images/InDesign.png");
 }
 
 .skillsBlock .label {
