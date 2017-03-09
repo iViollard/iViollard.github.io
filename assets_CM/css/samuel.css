@@ -72,3 +72,12 @@ a.timeline-header-link {
 .skillsBlock .label p {
     color:#ffffff;
 }
+
+ul li a {
+    color:#2098d1;
+    font-weight:bold;
+}
+
+.font-accident-two-normal {
+    font-family: 'Cabin', sans-serif;
+}
