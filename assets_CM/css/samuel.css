@@ -81,3 +81,7 @@ ul li a {
 .font-accident-two-normal {
     font-family: 'Cabin', sans-serif;
 }
+
+#pro-experience.dark div.experience li.company a {
+    color:#2098d1;
+}
