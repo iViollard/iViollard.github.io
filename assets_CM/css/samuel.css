@@ -1,6 +1,6 @@
 /* Main Photo */
 .photo-01 {
-  background: url("../images/CM.jpg");
+  background-image: url("../images/CM.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,22 +16,22 @@
   transition: all .5s ease-in-out; }
 
 .timeline-samuel-01 {
-  background: url("../images/J4GDesignLogo.jpg");
+  background-image: url("../images/J4GDesignLogo.jpg");
   background-position: center;
   background-size: cover; }
 
 .timeline-samuel-02 {
-  background: url("../images/PA_Consulting_Group_logo.png");
+  background-image: url("../images/PA_Consulting_Group_logo.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-samuel-03 {
-  background: url("../images/AdgisticsLogo.jpg");
+  background-image: url("../images/AdgisticsLogo.jpg");
   background-position: center;
   background-size: cover; }
 
 .timeline-samuel-04 {
-  background: url("../images/betfairLogo.jpg");
+  background-image: url("../images/betfairLogo.jpg");
   background-position: center;
   background-size: cover; }
 
@@ -49,15 +49,79 @@ a.timeline-header-link {
 }
 
 .AdobePS {
-      background: url("../images/Photoshop.png");
+      background-image: url("../images/Photoshop.png");
 }
 
 .AdobeAI {
-    background: url("../images/Illustrator.png");
+    background-image: url("../images/Illustrator.png");
 }
 
 .AdobeID {
-    background: url("../images/InDesign.png");
+    background-image: url("../images/InDesign.png");
+}
+
+.htmlcssjs {
+    background-image: url("../images/HTML5.png")
+}
+
+.axure {
+    background-image: url("../images/Axure.jpg")
+}
+
+.ucd {
+    background-image: url("../images/UserCenteredDesign.png")
+}
+
+.workshops {
+    background-image: url("../images/Workshops.jpg")
+}
+
+.sketching {
+    background-image: url("../images/sketching.jpg")
+}
+
+.fed {
+    background-image: url("../images/fed.png")
+}
+
+.utesting {
+    background-image: url("../images/usability.jpg")
+}
+
+.engagement {
+    background-image: url("../images/Handshake.jpg")
+}
+
+.visualdesign {
+    background-image: url("../images/Portfolio-FCLWebsite.png")
+}
+
+.logobranding {
+    background-image: url("../images/Portfolio-AllstarUhlmannUKSignage.png")
+}
+
+.requirements {
+    background-image: url("../images/640_leadership1.jpg")
+}
+
+.prototyping {
+    background-image: url("../images/prototyping.png")
+}
+
+.agile {
+    background-image: url("../images/agile.png")
+}
+
+.skillsBlock.csm {
+    background-image: url("../images/CSM.png")
+}
+
+.skillsBlock.fencing {
+    background-image: url("../images/CMFencing.jpeg")
+}
+
+.skillsBlock.lecturer {
+    background-image: url("../images/BrunelUni.png")
 }
 
 .skillsBlock .label {
@@ -84,4 +148,26 @@ ul li a {
 
 #pro-experience.dark div.experience li.company a {
     color:#2098d1;
+}
+
+#portfolio-item-page .portfolio-item-details span p {
+    font-weight:700;
+}
+
+#portfolio-overview h4 {
+    margin-bottom:16px;
+    margin-top:16px;
+}
+
+.imgCaption {
+    font-size: 11px;
+    text-align: center;
+    margin-top:10px;
+    font-style: italic;
+}
+
+#portfolio-item-page ul {
+    list-style-type: disc;
+    margin-left:0;
+    padding-left:40px;
 }
