@@ -175,7 +175,7 @@ ul li a {
     font-style: italic;
 }
 
-#portfolio-item-page ul {
+#portfolio-item-page ul, #blogpost ul {
     list-style-type: disc;
     margin-left:0;
     padding-left:40px;
@@ -183,4 +183,12 @@ ul li a {
 
 #portfolio-overview .col-md-6, #portfolio-overview .col-md-4, #portfolio-overview .col-md-3 {
     min-height:350px;
+}
+
+#blogpost .quote {
+    font-style: italic;
+    font-size:1.2em;
+    color:#6f777b;
+    padding:10px 0;
+    display: block;
 }
