@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div id="blogpost" class="inner-content">
+
+      <section id="page-title" class="inner-section"
+               data-animation-origin="right"
+               data-animation-duration="500"
+               data-animation-delay="300"
+               data-animation-distance="50px">
+         <div class="container-fluid nopadding">
+            <h2 class="font-accident-two-bold">{{ page.blogtitle }}</h2>
+            <div class="dividewhite2"></div>
+            <div class="post-meta"><span>{{ page.date | date_to_string }}</span></div>
+            <div class="post-tag pull-left">{% for tag in page.tags %}<span><a>tag</a></span>{% endfor %}</div>
+         </div>
+      </section>
+
+      <!-- Blog Block -->
+      <section class="inner-section">
+
+         <div class="container-fluid nopadding">
+
+            <img src="{{ page.imageurl }}" class="img-responsive"
+                 data-animation-origin="top"
+                 data-animation-duration="500"
+                 data-animation-delay="300"
+                 data-animation-distance="25px">
+
+            <article class="post"
+                     data-animation-origin="top"
+                     data-animation-duration="500"
+                     data-animation-delay="300"
+                     data-animation-distance="25px">
+
+               <div class="dividewhite6"></div>
+
+               <!-- Post Content -->
+               {{ content }}
+               <!-- /Post Content -->
+
+               <div class="dividewhite4"></div>
+
+            </article>
+          </div>
+
+
+
+            
+
+      </section>
+      <!-- /Blog Block -->
+
+   </div>
