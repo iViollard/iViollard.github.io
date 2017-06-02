@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | Ford's quest to UX mastery
 blogtitle: Ford's quest to UX mastery
-imageurl: assets_CM/images/Ford.png
+imageurl: /assets_CM/images/Ford.png
 date: 2016-04-04
 tags: [UX]
 ---

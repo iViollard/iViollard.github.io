@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | Winning the UX tug of war
 blogtitle: Winning the UX tug of war
-imageurl: assets_CM/images/tugofwar.jpg
+imageurl: /assets_CM/images/tugofwar.jpg
 date: 2017-01-05
 tags: [UX]
 ---

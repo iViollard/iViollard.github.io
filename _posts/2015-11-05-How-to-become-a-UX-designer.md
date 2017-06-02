@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | How to become a UX designer
 blogtitle: How to become a UX designer
-imageurl: assets_CM/images/gettingintoUX.jpg
+imageurl: /assets_CM/images/gettingintoUX.jpg
 date: 2015-11-05
 tags: [UX]
 ---

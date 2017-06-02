@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | Logos standing the test of time
 blogtitle: Logos standing the test of time
-imageurl: assets_CM/images/Natwest%20evolution.jpg
+imageurl: /assets_CM/images/Natwest%20evolution.jpg
 date: 2016-10-21
 tags: [BRANDING]
 ---

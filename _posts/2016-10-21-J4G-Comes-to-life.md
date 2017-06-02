@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | J4G Comes to life
 blogtitle: J4G Comes to life
-imageurl: assets_CM/images/J4GDesignBlog.jpg
+imageurl: /assets_CM/images/J4GDesignBlog.jpg
 date: 2016-10-21
 tags: [BRANDING, DESIGN]
 ---

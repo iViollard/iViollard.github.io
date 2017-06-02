@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | Mollard's principles of design and life
 blogtitle: Mollard's principles of design and life
-imageurl: assets_CM/images/principles.jpg
+imageurl: /assets_CM/images/principles.jpg
 date: 2016-08-23
 tags: [DESIGN]
 ---

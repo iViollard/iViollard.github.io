@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | Custom fonts in Axure prototypes
 blogtitle: Custom fonts in Axure prototypes
-imageurl: assets_CM/images/aquaticocustomfont.jpg
+imageurl: /assets_CM/images/aquaticocustomfont.jpg
 date: 2017-02-07
 tags: [Prototyping]
 ---

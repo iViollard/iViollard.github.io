@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | Dark Patterns in UI
 blogtitle: The use of dark patterns in UI
-imageurl: assets_CM/images/darkpatterns.jpg
+imageurl: /assets_CM/images/darkpatterns.jpg
 date: 2016-11-10
 tags: [UX, DESIGN]
 ---
