@@ -52,7 +52,7 @@ title: Christopher Mollard | Blog
                                                 <p>{{ post.smalldesc }}</p>
                                             </div>
                                             <div class="post-tag pull-left">
-                                                {% for tag in post.tags %}<span><a href="#{{tag}}" data-filter=".{{tag}}">{{ tag }}</a></span>
+                                                {% for tag in post.tags %}<span><a href="#{{tag}}" data-filter=".{{tag}}">{{ tag }}</a></span> {% endfor %}
                                             </div>
                                         </figcaption>
                                     </figure>
