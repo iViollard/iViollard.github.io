@@ -4,7 +4,7 @@ title: Christopher Mollard | Custom fonts in Axure prototypes
 blogtitle: Custom fonts in Axure prototypes
 imageurl: /assets_CM/images/aquaticocustomfont.jpg
 date: 2017-02-07
-tags: [Prototyping]
+tags: [PROTOTYPING]
 ---
 <p>
 Sick of Axure prototypes rendering a nicely designed page using Times New Roman?  I have always struggled to make high fidelity Axure prototypes look correct on computers that haven't got certain fonts installed.  This is because Axure doesn't support hosting a custom font somewhere...but NO MORE!
