@@ -3,6 +3,8 @@ layout: post
 title: Christopher Mollard | Winning the UX tug of war
 blogtitle: Winning the UX tug of war
 imageurl: /assets_CM/images/tugofwar.jpg
+imagealt: Men and women playing tug of war, one side of the rope.
+smalldesc: Sometimes being a User Experience practitioner means picking and choosing your battles.
 date: 2017-01-05
 tags: [UX]
 ---

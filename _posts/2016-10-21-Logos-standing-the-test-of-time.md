@@ -3,6 +3,8 @@ layout: post
 title: Christopher Mollard | Logos standing the test of time
 blogtitle: Logos standing the test of time
 imageurl: /assets_CM/images/Natwest%20evolution.jpg
+imagealt: Old and new Natwest logos side by side.
+smalldesc: The mark of a great logo is it's identity so I find it fitting that new logos are referring to their past.
 date: 2016-10-21
 tags: [BRANDING]
 ---
