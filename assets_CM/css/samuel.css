@@ -1,3 +1,18 @@
+/* Blog post layout */
+
+.centrallyAligned {
+    left:25%;
+}
+
+.blogBlockPadding {
+    padding: 0 60px;
+}
+
+#blogpost #page-title {
+    text-align: center;
+    padding-top:60px;
+}
+
 /* Main Photo */
 .photo-01 {
   background-image: url("../images/CM.jpg");
@@ -191,19 +206,4 @@ ul li a {
     color:#6f777b;
     padding:10px 0;
     display: block;
-}
-
-/* Blog post layout */
-
-.centrallyAligned {
-    left:25%;
-}
-
-.blogBlockPadding {
-    padding: 0 60px;
-}
-
-#blogpost #page-title {
-    text-align: center;
-    padding-top:60px;
 }
