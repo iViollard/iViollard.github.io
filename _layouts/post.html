@@ -1,57 +1,52 @@
 --- layout: default ---
-<div id="blogpost" class="inner-content">
-    <section id="page-title col-sm-12 col-md-6" class="inner-section" data-animation-origin="right" data-animation-duration="500" data-animation-delay="300" data-animation-distance="50px">
-        <div class="container-fluid nopadding">
+<div id="blogpost" class="inner-content col-sm-6">
+
+      <section id="page-title" class="inner-section"
+               data-animation-origin="right"
+               data-animation-duration="500"
+               data-animation-delay="300"
+               data-animation-distance="50px">
+         <div class="container-fluid nopadding">
             <h2 class="font-accident-two-bold">{{ page.blogtitle }}</h2>
             <div class="dividewhite2"></div>
-            <p>{{ page.smalldesc }}</p>
-            <div class="dividewhite2"></div>
-            <div class="post-meta"><span>{{ page.date | date_to_string }}</span>
-                <div>
-                    <div class="post-tag pull-left">{% for tag in page.tags %}<span><a>{{ tag }}</a></span>{% endfor %}</div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="inner-section col-sm-12 col-md-6">
-        <div class="blog-header" data-animation-origin="right" data-animation-duration="400" data-animation-delay="100" data-animation-distance="50px">
-            <h2 class="font-accident-two-normal">{{ page.blogtitle }}</h2>
-            <p>{{ page.smalldesc }}</p>
-            <div class="dividewhite2"></div>
-        </div>
-        <div class="dividewhite4"></div>
-        <div class="row">
-            <div class="col-sm-12" data-animation-origin="top" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+            <div class="post-meta"><span>{{ page.date | date_to_string }}</span><div>
+            <div class="post-tag pull-left">{% for tag in page.tags %}<span><a>{{ tag }}</a></span>{% endfor %}</div>
+         </div>
+      </section>
 
-                <div class="row">
-                    <div class="col-xs-12">
-                        <img src="{{ page.imageurl }}" class="img-responsive" alt="{{ page.imagealt }}">
-                        <p class="imgCaption">{{ page.imagedescription}}</p>
-                        <div class="dividewhite2"></div>
-                        <div class="post-meta"><span>{{ page.date | date_to_string }}</span>
-                            <div>
-                                <div class="post-tag pull-left">{% for tag in page.tags %}<span><a>{{ tag }}</a></span>{% endfor %}
-                                </div>
-                            </div>
+      <!-- Blog Block -->
+      <section class="inner-section">
 
-                            <div class="dividewhite6"></div>
+         <div class="container-fluid nopadding">
 
-                        </div>
-                        <div id="portfolio-overview" class="col-md-12" data-animation-origin="top" data-animation-duration="400" data-animation-delay="600" data-animation-distance="50px">
+            <img src="{{ page.imageurl }}" class="img-responsive"
+                 data-animation-origin="top"
+                 data-animation-duration="500"
+                 data-animation-delay="300"
+                 data-animation-distance="25px">
 
-                            <div class="dividewhite2"></div>
-                            <!-- Post Content -->
+            <article class="post"
+                     data-animation-origin="top"
+                     data-animation-duration="500"
+                     data-animation-delay="300"
+                     data-animation-distance="25px">
 
-                            <div class="dividewhite4"></div>
-                            {{ content }}
-                            <div class="dividewhite4"></div>
-                            <!-- /Post Content -->
-                        </div>
+               <div class="dividewhite6"></div>
 
-                    </div>
+               <!-- Post Content -->
+               {{ content }}
+               <!-- /Post Content -->
 
-                    <div class="dividewhite8"></div>
+               <div class="dividewhite4"></div>
 
-    </section>
-    <!-- /Portfolio Block -->
-    </div>
+            </article>
+          </div>
+
+
+
+            
+
+      </section>
+      <!-- /Blog Block -->
+
+   </div>
