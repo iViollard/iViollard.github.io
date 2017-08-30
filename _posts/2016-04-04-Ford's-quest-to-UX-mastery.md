@@ -4,6 +4,7 @@ title: Christopher Mollard | Ford's quest to UX mastery
 blogtitle: Ford's quest to UX mastery
 imageurl: /assets_CM/images/Ford.png
 imagealt: The Ford motors logo.
+imagedescription: Ford are on their way to becoming a UX leader.
 smalldesc: User Experience is starting to be taken seriously by players outside of software development.
 date: 2016-04-04
 tags: [UX]

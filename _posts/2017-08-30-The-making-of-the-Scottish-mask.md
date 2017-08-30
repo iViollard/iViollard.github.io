@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Christopher Mollard | The making of the Scottish fencing mask
-blogtitle: The making of the Scottish fencing mask
-imageurl: /assets_CM/images/ScottishMaskDesign/ScottishMaskSprayed.JPG
+title: Christopher Mollard | How I made my Scottish fencing mask
+blogtitle: How I made my Scottish mask
+imageurl: /assets_CM/images/ScottishMaskDesign/ScottishMaskSprayedBlog.PNG
 imagealt: An image of white walls, some of which are white boards and others which are not
-imagedescription: testing
-smalldesc: I made the Scottish fencing mask that I designed
+imagedescription: The sprayed Scottish fencing mask
+smalldesc: I made the Scottish fencing mask that I designed, here is how I did it and what I learned
 date: 2017-08-30
 tags: [UX, DESIGN, BRANDING]
 ---

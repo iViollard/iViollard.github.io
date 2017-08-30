@@ -14,7 +14,7 @@ layout: default
             <p>{{ page.smalldesc }}</p>
             <div class="dividewhite2"></div>
             <div class="post-meta"><span>{{ page.date | date_to_string }}</span><div>
-            <div class="post-tag pull-left">{% for tag in page.tags %}<span><a>{{ tag }}</a></span>{% endfor %}</div>
+            <div class="post-tag">{% for tag in page.tags %}<span><a>{{ tag }}</a></span>{% endfor %}</div>
          </div>
       </section>
 

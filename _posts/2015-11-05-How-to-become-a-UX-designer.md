@@ -4,6 +4,7 @@ title: Christopher Mollard | How to become a UX designer
 blogtitle: How to become a UX designer
 imageurl: /assets_CM/images/gettingintoUX.jpg
 imagealt: A work desk in front of a white wall.
+imagedescription: A UX zen area.
 smalldesc: An interesting read - lots of good starting points for someone looking to get into UX design.
 date: 2015-11-05
 tags: [UX]

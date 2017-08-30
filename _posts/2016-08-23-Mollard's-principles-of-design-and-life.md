@@ -4,6 +4,7 @@ title: Christopher Mollard | Mollard's principles of design and life
 blogtitle: Mollard's principles of design and life
 imageurl: /assets_CM/images/principles.jpg
 imagealt: A screenshot of a text message being written with no space to read what was previously sent.
+imagedescription: How well can you achieve balance?
 smalldesc: In an ever increasing corporate world I think it becomes even more important to remember who we are and that we are not robots.
 date: 2016-08-23
 tags: [DESIGN]

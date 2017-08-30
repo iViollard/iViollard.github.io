@@ -13,6 +13,11 @@
     padding-top:60px;
 }
 
+@media (max-width:543px)
+    .centrallyAligned {
+        left:0%;
+}
+
 /* Main Photo */
 .photo-01 {
   background-image: url("../images/CM.jpg");
