@@ -2,7 +2,7 @@
 layout: post
 title: Christopher Mollard | How I made my Scottish fencing mask
 blogtitle: How I made my Scottish mask
-imageurl: /assets_CM/images/ScottishMaskDesign/ScottishMaskSprayedBlog.JPG
+imageurl: /assets_CM/images/ScottishMaskDesign/ScottishMaskSprayed.JPG
 imagealt: An image of white walls, some of which are white boards and others which are not
 imagedescription: The sprayed Scottish fencing mask
 smalldesc: I made the Scottish fencing mask that I designed, here is how I did it and what I learned
