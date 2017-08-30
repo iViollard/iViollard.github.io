@@ -4,7 +4,7 @@ title: Christopher Mollard | J4G Comes to life
 blogtitle: J4G Comes to life
 imageurl: /assets_CM/images/J4GDesignBlog.jpg
 imagealt: J4G Design logo - block lettering in a square on top of a blue background
-The J4G Design logo that I created.
+imagedescription: The J4G Design logo that I created.
 smalldesc: I've gone solo as a contractor! Welcome to the world J4G Design.
 date: 2016-10-21
 tags: [BRANDING, DESIGN]
