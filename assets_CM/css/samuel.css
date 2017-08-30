@@ -1,9 +1,5 @@
 /* Blog post layout */
 
-.centrallyAligned {
-    left:25%;
-}
-
 .blogBlockPadding {
     padding: 0 60px;
 }
@@ -13,9 +9,9 @@
     padding-top:60px;
 }
 
-@media (max-width:543px)
+@media (min-width:543px)
     .centrallyAligned {
-        left:0%;
+        left:25%!important;
 }
 
 /* Main Photo */
