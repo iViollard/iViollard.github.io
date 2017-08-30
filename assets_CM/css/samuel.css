@@ -192,3 +192,18 @@ ul li a {
     padding:10px 0;
     display: block;
 }
+
+/* Blog post layout */
+
+.centrallyAligned {
+    left:25%;
+}
+
+.blogBlockPadding {
+    padding: 0 60px;
+}
+
+#blogpost #page-title {
+    text-align: center;
+    padding-top:60px;
+}
