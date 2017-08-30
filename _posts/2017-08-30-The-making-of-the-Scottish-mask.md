@@ -4,9 +4,10 @@ title: Christopher Mollard | The making of the Scottish fencing mask
 blogtitle: The making of the Scottish fencing mask
 imageurl: /assets_CM/images/ScottishMaskDesign/ScottishMaskSprayed.JPG
 imagealt: An image of white walls, some of which are white boards and others which are not
+imagedescription: testing
 smalldesc: I made the Scottish fencing mask that I designed
 date: 2017-08-30
-tags: [UX, Design, Branding]
+tags: [UX, DESIGN, BRANDING]
 ---
 <p>
 Following my design of the Scottish fencing mask, I thought that it would be great to bring it to life!  As I have a degree in product design and I love getting stuck in I decided to do it myself. I started by doing some research on methods for spraying fencing masks:
