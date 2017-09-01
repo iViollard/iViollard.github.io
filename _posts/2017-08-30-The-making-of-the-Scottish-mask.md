@@ -58,18 +58,13 @@ Following my design of the Scottish fencing mask, I thought that it would be gre
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7885-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7887-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7889-min.JPG">
-
-Considerations - I didn't want to apply too many layers as I wasn't sure how many it might take to plug up the holes that are essential for sight and ventilation during fencing!
-
-I thought that there might be some work needed to remove the original paint but there was nothing that indicated as such so I decided to ignore this step.  Already knowing what my design was and the template masking needed ()
-
-Marked it out with duct and masking tape
-
-Tried to re-spray my other mask in black but discovered that I had used the wrong type of paint and it chipped easily.
-
-Wrong colour
-
-Right colour
-
-Final design
-</p>
+<h3>What I learnt</h3>
+<p>Use the right paint:</p>
+<ul>
+<li>rubberised</li>
+<li>resistant</li>
+<li>insulating</li>
+</ul>
+<p>TO being with I used paint that I bought a my local DIY shop which looked great when I sprayed it but chipped fairly quickly.  In the end I used <a href="https://www.plastidip.co.uk/" target="_blank">Plastidip</a> which worked great and doesnt chip as it bears impact really well.</p>
+<p>Buy several colours as I have found them to usually appear lighter than they do on the Plastidip website!</p>
+<p>Don't apply too many layers as the last thing that you want is to plug up the holes - fencers still need to be able to see, breath and have some ventilation when they have a mask on!</p>
