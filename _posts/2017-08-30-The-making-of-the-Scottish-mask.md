@@ -42,7 +42,7 @@ Following my design of the Scottish fencing mask, I thought that it would be gre
 <p>The paint needs at least 45 minutes to dry between coats and ideally a few hourss that it dried properly on both the outside and inside layers. When the paint looks dry on the outside it might still be wet inside, if another layer is applied too soon then you'll get cracking.  Leaving the mask to dry and air out propely is also very important at the end so that you're not breathing fumes!</p>
 <h3 class="steps">5. Apply a second layer</h3>
 <p>This is so that the original paint is suitably covered and that the gaps have been filled properly, a single layer might not always be enough. Again leave to dry.</p>
-<h3 class="steps">6. Create a template with tape for the rest of the design</h3>
+<h3 class="steps">6. Create your template for the rest of the design</h3>
 <p>I used duct tape for the cross as it was an easy way to create a thick line.</p>
 <h3 class="steps">7. Apply a first layer of colour</h3>
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7802-min.JPG">
