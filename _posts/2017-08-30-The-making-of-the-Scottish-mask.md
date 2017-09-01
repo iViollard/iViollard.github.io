@@ -10,18 +10,24 @@ date: 2017-08-30
 tags: [UX, DESIGN, BRANDING]
 ---
 <p>
-Following my design of the Scottish fencing mask, I thought that it would be great to bring it to life!  As I have a degree in product design and I love getting stuck in I decided to do it myself. I started by doing some research on methods for spraying fencing masks:
+Following my design of the Scottish fencing mask, I thought that it would be great to bring it to life!  I love getting stuck in I decided to do it myself and have outlined the steps that I followed below.
 
-<ul>
-    <li><a href="https://www.leonpaul.com/blog/the-story-of-the-flag-mask-and-how-to-make-your-own/" target="_blank">The story of the flag mask and how to make your own, a blog post from Leon Paul</a></li>
-    <li><a href="https://www.youtube.com/watch?v=Vm3IZgFvrBM" target="_blank">Painting a fencing mask, a video by Medieval Review on YouTube</a></li>
-    <li><a href="https://www.youtube.com/watch?v=Sd4xcPezta0" target="_blank">How to customise a fencing mask, a video by Kálmán Kozma on YouTube</a></li>
-</ul>
-
-This gave me a good understanding of my steps:
-
-<ol>
+<ol class="steps">
+    <li>Do some research on how others have sprayed their own fencing masks</li>
+        <p>I did this through Google and speaking to a few contacts in industry. I expected the application to be along the lines of remoing the previous coats, applying a primer and then your template on top.  Here's what I found online:</p>
+        <ul>
+            <li>
+                <a href="https://www.leonpaul.com/blog/the-story-of-the-flag-mask-and-how-to-make-your-own/" target="_blank">The story of the flag mask and how to make your own, a blog post from Leon Paul</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/watch?v=Vm3IZgFvrBM" target="_blank">Painting a fencing mask, a video by Medieval Review on YouTube</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/watch?v=Sd4xcPezta0" target="_blank">How to customise a fencing mask, a video by Kálmán Kozma on YouTube</a>
+            </li>
+        </ul>
     <li>Decide on the design to be applied</li>
+    <p>Testing whether this works</p>
     <li>Tape up the parts of the mask not to be sprayed (the bib, the back strap and any other fabric)</li>
     <li>Spray the primer/first layer (in this case white - to plug anywhere where the paint has chipped and to provide the base for the cross in the Saltire)</li>
     <li>Leave the paint to dry, at least for 45 minutes</li>
