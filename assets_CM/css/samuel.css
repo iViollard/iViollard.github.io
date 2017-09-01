@@ -208,3 +208,7 @@ ul li a {
     padding:10px 0;
     display: block;
 }
+
+h3.steps {
+    margin: 40px 0;
+}
