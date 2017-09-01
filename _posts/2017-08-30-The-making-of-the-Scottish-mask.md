@@ -27,7 +27,9 @@ Following my design of the Scottish fencing mask, I thought that it would be gre
         </ul>
 <h3 class="steps">2. Decide on the design to be applied</h3>
 <p>At this point I had already decided on the design that I was going to use, having already created a design and explored others <a href="../ScottishFencingMaskDesign.html" target="_blank" >as part of my Scottish mask design project</a>.</p>
-<img class="col-xs-12" src="../assets_CM/images/Portfolio-ScottishMask.JPG">
+<div class="col-xs-12">
+    <img class="col-xs-12" src="../assets_CM/images/Portfolio-ScottishMask.JPG">
+    </div>
 <p>At the last minute I decided to add some tartan to the top of the mask for a little variation and fun on space that would otherwise considered to be 'dead'.</p>
 <h3 class="steps">3. Tape up the parts of the mask not to be sprayed</h3>
 <p>I was spraying the entirety of the mesh which meant that there was a lot of taping up involved.  Anything that was fabric neede to be covered up as well as the back strap, depending on how picky one is I could also have tried to cover up the rivets on the mesh but I wasn't that bothered - and frankly life is too short.  I used duct tape to cover the majority of the mask (as recommended in the video by Leon Paul) as it's much easier not to be specific and then used masking tape for areas requiring finer edges (such as the rim of the mask).</p>
@@ -45,20 +47,23 @@ Following my design of the Scottish fencing mask, I thought that it would be gre
 <h3 class="steps">6. Create a template with tape for the rest of the design</h3>
 <p>I used duct tape for the cross as it was an easy way to create a thick line.</p>
 <h3 class="steps">7. Apply a first layer of colour</h3>
-<img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7802-min.JPG">
-<img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7868-min.JPG">
-<img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7869-min.JPG">
+<div class="col-xs-12">
+    <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7802-min.JPG">
+    <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7868-min.JPG">
+    <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7869-min.JPG">
+</div>
 <p>Again, make sure to leave the paint to dry properly.
 <h3 class="steps">8. Apply a second layer of colour</h3>
 <p>And once more leave the paint to dry properly.
 <h3 class="steps">9. Peel off the tape</h3></h3>
+<div class="col-xs-12">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7880-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7881-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7883-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7885-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7887-min.JPG">
 <img class="col-xs-12" src="../assets_CM/images/ScottishMaskDesign/IMG_7889-min.JPG">
-
+</div>
 
 Considerations - I didn't want to apply too many layers as I wasn't sure how many it might take to plug up the holes that are essential for sight and ventilation during fencing!
 
