@@ -86,36 +86,7 @@ title: Christopher Mollard | Portfolio
         <div class="row masonry-row">
             <div class="grid container-fluid text-center">
                 <div id="posts" class="row popup-container">
-                    
-                    
-                    {% for post in site.items %}
-                            <div class="grid-item grid-sizer {% for tag in post.tags %} {{ tag }} {% endfor %} col-md-4 col-sm-6">
-                                <div class="item-wrap">
-                                    <figure data-animation-origin="right"  data-animation-duration="500" data-animation-delay="500" data-animation-distance="0px">
-                                        <img src="{{ post.imageurl }}" class="img-responsive" alt="{{ post.imagealt }}" />
-                                        <figcaption>
-                                            <div class="post-meta"><span>{{ post.date | date_to_string }}</span></div>
-                                            <div class="post-header">
-                                                <h5><a href="{{ post.url }}">{{ post.blogtitle }}</a></h5>
-                                            </div>
-                                            <div class="post-entry">
-                                                <p>{{ post.smalldesc }}</p>
-                                            </div>
-                                            <div class="post-tag pull-left">
-                                                {% for tag in post.tags %}<span><a href="#{{tag}}" data-filter=".{{tag}}">{{ tag }}</a></span> {% endfor %}
-                                            </div>
-                                        </figcaption>
-                                    </figure>
-                                </div>
-                            </div>
-                            {% endfor %}
-                    
-                    
-                    
-                    
-                    <!-- 
-
-<div class="grid-item logo marketing col-xs-6 col-sm-4 col-md-3">
+                    <div class="grid-item logo marketing col-xs-6 col-sm-4 col-md-3">
                         <div class="item-wrap">
                             <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="600" data-animation-delay="400" data-animation-distance="100px">
                                 <img src="../iViollard.github.io/assets_CM/images/Portfolio-AllstarUhlmannUKSignage.png" class="img-responsive'" alt="Allstar Ulman UK shop signage" />
@@ -270,7 +241,6 @@ title: Christopher Mollard | Portfolio
                         </div>
                     </div>
 
--->
 
                 </div>
             </div>
