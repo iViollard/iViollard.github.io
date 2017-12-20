@@ -5,8 +5,8 @@ layout: default
     <section class="inner-section">
 
         <div class="post-header" data-animation-origin="right" data-animation-duration="400" data-animation-delay="100" data-animation-distance="50px">
-            <h2 class="font-accident-two-normal">{{ item.portfoliotitle }}</h2>
-            <p>{{ item.smalldesc }}</p>
+            <h2 class="font-accident-two-normal">{{ page.portfoliotitle }}</h2>
+            <p>{{ page.smalldesc }}</p>
             <div class="dividewhite1"></div>
         </div>
         <div class="dividewhite4"></div>
@@ -15,8 +15,8 @@ layout: default
 
                 <div class="row">
                     <div class="col-md-12 col-sm-6 col-xs-12">
-                        <img src="{{ item.imageurl }}" class="img-responsive" alt="{{ item.imagedescription }}">
-                        <p class="imgCaption">{{ item.imagealt }}</p>
+                        <img src="{{ page.imageurl }}" class="img-responsive" alt="{{ page.imagedescription }}">
+                        <p class="imgCaption">{{ page.imagealt }}</p>
                         <div class="dividewhite2"></div>
                     </div>
                 </div>
@@ -33,11 +33,11 @@ layout: default
                 <div class="portfolio-item-details table">
                     <div class="row table-row">
                         <div class="table-cell">Date:</div>
-                        <div class="table-cell"><span> <p>{{ item.date }}</p></span></div>
+                        <div class="table-cell"><span> <p>{{ page.date }}</p></span></div>
                     </div>
                     <div class="row table-row">
                         <div class="table-cell">Categories:</div>
-                        <div class="table-cell"><span> <p>{{ item.tags }}</p></span></div>
+                        <div class="table-cell"><span> <p>{{ page.tags }}</p></span></div>
                     </div>
 
 
@@ -47,7 +47,7 @@ layout: default
                         <div class="table-cell">
                             <span>
                                         <p>
-                                            {{ item.client }}
+                                            {{ page.client }}
                                         </p>
                                     </span>
                         </div>

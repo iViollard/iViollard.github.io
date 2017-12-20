@@ -1,2 +1,5 @@
 name: Chris Mollard, Portfolio Website
 markdown: kramdown
+collections:
+  _items:
+    output: true
