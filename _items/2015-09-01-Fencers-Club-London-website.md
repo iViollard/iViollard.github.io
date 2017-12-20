@@ -1,33 +1,38 @@
 ---
 layout: item
-title: Christopher Mollard | Portfolio | Test
-portfoliotitle: Testing portfolio template
-imageurl: /assets_CM/images/ScottishMaskDesign/Masksprayed-min.jpg
-imagealt: An image of white walls, some of which are white boards and others which are not
-imagedescription: The sprayed Scottish fencing mask
-smalldesc: I made the Scottish fencing mask that I designed, here is how I did it and what I learned
+title: Christopher Mollard | Fencers Club London Website
+portfoliotitle: Fencers Club London Website
+smalldesc: Designing and building a website for a new elite fencing club making their mark on the international scene
+imageurl: assets_CM/images/Portfolio-FCLWebsite.png
+imagealt: Fencers Club London website displayed on an iPhone, iPad and iMac
+imagedescription: Fencers Club London responsive website overview
 client: Fencers Club London
-date: 2017-08-30
-tags: [UX, DESIGN, BRANDING]
+date: 2015-09-01
+tags: [WEBSITE DESIGN]
 ---
 <h4>Some background</h4>
 <p>
 Fencers Club London was a new fencing club for the elite that was opening in London. They needed a website that would stand out from the rest, get them noticed and provide all the information that any fencer or parent could need.
 </p>
+
 <h4>The brief</h4>
+
 <p>
 Design and build a striking and unique website for a strong club (that includes two British champions and a Polish World Cup winner) to bring it to life online.
 </p>
+
 <h4>The process</h4>
 <p>
+
 I identified the prospective users of the new site:
 </p>
 <ul>
-    <li>current club fencers</li>
-    <li>fencing parents</li>
-    <li>prospective members</li>
-    <li>investors</li>
+<li>current club fencers</li>
+<li>fencing parents</li>
+<li>prospective members</li>
+<li>investors</li>
 </ul>
+
 <p>Built on Wordpress. Worked with key stakeholders and user to identify requirements, test designs and get feedback on the site as it was being built. Conducted competitor analysis of other fencing club websites to identify some key components that are successful:
 </p>
 <ul>
