@@ -86,20 +86,22 @@ title: Christopher Mollard | Portfolio
         <div class="row masonry-row">
             <div class="grid container-fluid text-center">
                 <div id="posts" class="row popup-container">
+                    {% for item in site.items %}
                     <div class="grid-item logo marketing col-xs-6 col-sm-4 col-md-3">
                         <div class="item-wrap">
                             <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="600" data-animation-delay="400" data-animation-distance="100px">
-                                <img src="../iViollard.github.io/assets_CM/images/Portfolio-AllstarUhlmannUKSignage.png" class="img-responsive'" alt="Allstar Ulman UK shop signage" />
+                                <img src="{{ item.imageurl }}" class="img-responsive'" alt="{{ item.imagealt }}" />
                                 <figcaption>
                                     <div class="fig-description">
                                         <h3>{{ item.portfoliotitle }}</h3>
                                         <p>{{ item.tags }}</p>
                                     </div>
-                                    <a href="{{ item.imageurl }}"></a>
+                                    <a href="{{ post.url }}"></a>
                                 </figcaption>
                             </figure>
                         </div>
                     </div>
+                    {% endfor %}
                     <div class="grid-item logo marketing col-xs-6 col-sm-4 col-md-3">
                         <div class="item-wrap">
                             <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="600" data-animation-delay="400" data-animation-distance="100px">
