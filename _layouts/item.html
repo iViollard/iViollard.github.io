@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div id="portfolio-item-page" class="inner-content">
+    <section class="inner-section">
+
+        <div class="post-header" data-animation-origin="right" data-animation-duration="400" data-animation-delay="100" data-animation-distance="50px">
+            <h2 class="font-accident-two-normal">{{ item.portfoliotitle }}</h2>
+            <p>{{ item.smalldesc }}</p>
+            <div class="dividewhite1"></div>
+        </div>
+        <div class="dividewhite4"></div>
+        <div class="row">
+            <div class="col-md-5" data-animation-origin="top" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+
+                <div class="row">
+                    <div class="col-md-12 col-sm-6 col-xs-12">
+                        <img src="{{ item.imageurl }}" class="img-responsive" alt="{{ item.imagedescription }}">
+                        <p class="imgCaption">{{ item.imagealt }}</p>
+                        <div class="dividewhite2"></div>
+                    </div>
+                </div>
+
+                <div class="dividewhite6"></div>
+
+            </div>
+            <div id="portfolio-overview" class="col-md-6 col-md-offset-1" data-animation-origin="top" data-animation-duration="400" data-animation-delay="600" data-animation-distance="50px">
+
+                <div class="dividewhite2"></div>
+                <!-- Post Content -->
+
+
+                <div class="portfolio-item-details table">
+                    <div class="row table-row">
+                        <div class="table-cell">Date:</div>
+                        <div class="table-cell"><span> <p>{{ item.date }}</p></span></div>
+                    </div>
+                    <div class="row table-row">
+                        <div class="table-cell">Categories:</div>
+                        <div class="table-cell"><span> <p>{{ item.tags }}</p></span></div>
+                    </div>
+
+
+                    <div class="row table-row">
+                        <div class="table-cell">Client:
+                        </div>
+                        <div class="table-cell">
+                            <span>
+                                        <p>
+                                            {{ item.client }}
+                                        </p>
+                                    </span>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="dividewhite4"></div>
+                {{ content }}
+
+        <div class="dividewhite8"></div>
+
+    </section>
+    <!-- /Portfolio Block -->
+</div>
