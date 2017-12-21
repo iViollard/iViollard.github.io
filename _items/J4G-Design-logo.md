@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | J4g Design Ltd logo
 portfoliotitle: J4G Design Ltd logo
 smalldesc: Creating and designing a logo for a User Experience agency
-imageurl: assets_CM/images/Portfolio-J4GDsignLogoMockedUp.png
+imageurl: /assets_CM/images/Portfolio-J4GDsignLogoMockedUp.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-J4GDsignLogoMockedUp.png
 imagealt: J4G Design logo on the top of an invoice, you can only see the corner
 imagedescription: J4G Design Ltd logo on an invoice
 client: J4G Design Ltd
@@ -26,12 +27,9 @@ Create a logo that is smart and elegant as well as being distinguishable without
 To come.
 </p>
 <div class="col-md-12 col-sm-6 col-xs-12">
-                        <img src="../iViollard.github.io/assets_CM/images/Portfolio-J4GDsignLogo.png" class="img-responsive" alt="J4G Design logo: white capital wording on a blue background, three letters on each lines ">
-                        <p class="imgCaption">J4G Design Ltd logo</p>
-                        <div class="dividewhite2"></div>
-                    </div>
+<img src="/assets_CM/images/Portfolio-J4GDsignLogo.png" class="img-responsive" alt="J4G Design logo: white capital wording on a blue background, three letters on each lines ">
+<p class="imgCaption">J4G Design Ltd logo</p>
+<div class="dividewhite2"></div>
+</div>
 <div class="dividewhite4"></div>
 <!-- /Post Content -->
-</div>
-
-</div>

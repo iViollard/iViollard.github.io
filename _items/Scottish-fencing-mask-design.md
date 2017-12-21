@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Scottish fencing mask design
 portfoliotitle: Scottish fencing mask design
 smalldesc: A new mask design for the Scottish fencing team
-imageurl: assets_CM/images/Portfolio-ScottishMask.JPG
+imageurl: /assets_CM/images/Portfolio-ScottishMask.JPG
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-ScottishMask.JPG
 imagealt: Fencing mask with a Scottish flag
 imagedescription: The final design for the Scottish fencing mask
 client: Scottish Fencing Association
@@ -29,22 +30,22 @@ The process I am a competitive fencer and have been on the scene for a little wh
 <div class="dividewhite4"></div>
 <div class="row">
 <div class="col-md-12 col-sm-12 col-xs-12">
-<img src="../iViollard.github.io/assets_CM/images/LPmasks.jpg" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/LPmasks.jpg" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">Mask designs from Leon Paul, image from the <a href="https://www.leonpaul.com/blog/the-story-of-the-flag-mask-and-how-to-make-your-own/" target="_blank">Leon Paul website</a>.</p>
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-12 col-sm-12 col-xs-12">
-<img src="../iViollard.github.io/assets_CM/images/americanandbritishmasks.jpeg" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/americanandbritishmasks.jpeg" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">An American and British fencer, image from the <a href="http://www.huffingtonpost.com/entry/olympic-fencing-masks_us_57a8a8ade4b056bad2163eb9" target="_blank">Huffington Post website</a>.</p>
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/American%20mask.jpg" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/American%20mask.jpg" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">An American fencer at London 2012</p>
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/British%20mask.jpg" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/British%20mask.jpg" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">A British fencer at London 2012</p>
 <div class="dividewhite2"></div>
 </div>
@@ -58,28 +59,28 @@ I used these as inspiration and tried to combine the patterns used on existing m
 </p>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/AUS.png" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/AUS.png" class="img-responsive" alt="portfolio item">
 <div class="dividewhite2"></div>
 </div>
 
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/BRA.png" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/BRA.png" class="img-responsive" alt="portfolio item">
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/CAN.png" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/CAN.png" class="img-responsive" alt="portfolio item">
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ITA.png" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/ITA.png" class="img-responsive" alt="portfolio item">
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/NZL.png" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/NZL.png" class="img-responsive" alt="portfolio item">
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/BAR.png" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/BAR.png" class="img-responsive" alt="portfolio item">
 <div class="dividewhite2"></div>
 </div>
 <p class="imgCaption">Top left to bottom right: Australia, Brazil, Canada, Italy, New Zealand, Barbados</p>
@@ -90,7 +91,7 @@ Scottish fencers usually wear stripes to determine their nationality, which use 
 </p>
 <div class="row">
 <div class="col-md-12 col-sm-12 col-xs-12">
-<img src="../iViollard.github.io/assets_CM/images/Mask%20sletches.JPG" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/Mask%20sletches.JPG" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">Sketches of the mask designs</p>
 <div class="dividewhite2"></div>
 </div>
@@ -100,37 +101,37 @@ The only icon that I considered using was The Lion Rampant, but again didn't thi
 </p>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/Mask%20design%201.JPG" class="img-responsive" alt="Scottish fencing mask design: white closs on blue mask with white Lion Rampant above it">
+<img src="/assets_CM/images/Mask%20design%201.JPG" class="img-responsive" alt="Scottish fencing mask design: white closs on blue mask with white Lion Rampant above it">
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/Mask%20design%202.JPG" class="img-responsive" alt="Scottish fencing mask design: white cross on blue mask">
-<div class="dividewhite2"></div>
-</div>
-
-<div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20blue%20on%20white.jpg" class="img-responsive" alt="Scottish fencing mask design: blue stripe on white mask">
-<div class="dividewhite2"></div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20grey%20on%20black.jpg" class="img-responsive" alt="Scottish fencing mask design: grey stripe on black mask">
-<div class="dividewhite2"></div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20offset%20white%20on%20blue.jpg" class="img-responsive" alt="Scottish fencing mask design: blue offset stripe on white mask">
-<div class="dividewhite2"></div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20Scottish%20mostly%20white.jpg" class="img-responsive" alt="Scottish fencing mask design: mostly white">
+<img src="/assets_CM/images/Mask%20design%202.JPG" class="img-responsive" alt="Scottish fencing mask design: white cross on blue mask">
 <div class="dividewhite2"></div>
 </div>
 
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20scottish%20with%20grey.jpg" class="img-responsive" alt="Scottish fencing mask design: grey cross on blue mask">
+<img src="/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20blue%20on%20white.jpg" class="img-responsive" alt="Scottish fencing mask design: blue stripe on white mask">
 <div class="dividewhite2"></div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
-<img src="../iViollard.github.io/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20white%20on%20blue.jpg" class="img-responsive" alt="Scottish fencing mask design: white stripe on blue mask">
+<img src="/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20grey%20on%20black.jpg" class="img-responsive" alt="Scottish fencing mask design: grey stripe on black mask">
+<div class="dividewhite2"></div>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6">
+<img src="/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20offset%20white%20on%20blue.jpg" class="img-responsive" alt="Scottish fencing mask design: blue offset stripe on white mask">
+<div class="dividewhite2"></div>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6">
+<img src="/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20Scottish%20mostly%20white.jpg" class="img-responsive" alt="Scottish fencing mask design: mostly white">
+<div class="dividewhite2"></div>
+</div>
+
+<div class="col-md-6 col-sm-6 col-xs-6">
+<img src="/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20scottish%20with%20grey.jpg" class="img-responsive" alt="Scottish fencing mask design: grey cross on blue mask">
+<div class="dividewhite2"></div>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6">
+<img src="/assets_CM/images/ScottishMaskDesign/Mask%20design%20-%20white%20on%20blue.jpg" class="img-responsive" alt="Scottish fencing mask design: white stripe on blue mask">
 <div class="dividewhite2"></div>
 </div>
 <p class="imgCaption">The final mask designs</p>
@@ -144,11 +145,8 @@ The final design is a design of a Scottish flag, simple looking but strong and k
 </p>
 <div class="row">
 <div class="col-md-12 col-sm-12 col-xs-12">
-<img src="../iViollard.github.io/assets_CM/images/Mask%20design%202.JPG" class="img-responsive" alt="portfolio item">
+<img src="/assets_CM/images/Mask%20design%202.JPG" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">The final design for the Scottish fencing mask</p>
 <div class="dividewhite2"></div>
-</div>
-</div>
-<!-- /Post Content -->
 </div>
 </div>

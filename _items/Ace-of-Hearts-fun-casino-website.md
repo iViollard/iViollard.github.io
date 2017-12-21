@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Ace of Hearts fun casino website
 portfoliotitle: Ace of Hearts fun casino website
 smalldesc: Designing and building a website for a new company breaking into the recreational casino business
-imageurl: assets_CM/images/Portfolio-AceofHeartsWebsite.png
+imageurl: /assets_CM/images/Portfolio-AceofHeartsWebsite.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-AceofHeartsWebsite.png
 imagealt: Ace of Hearts Fun casino displayed on an iPhone, iPad and iMac
 imagedescription: Ace of Hearts Fun Casino responsive website overview
 client: Ace of Hearts fun casino

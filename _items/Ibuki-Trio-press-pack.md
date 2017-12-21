@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Ibuki Trio press pack
 portfoliotitle: Ibuki Trio press pack
 smalldesc: Designing a press pack for promotional use
-imageurl: assets_CM/images/Portfolio-IbukiTrioPressPack.png
+imageurl: /assets_CM/images/Portfolio-IbukiTrioPressPack.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-IbukiTrioPressPack.png
 imagealt: Ibuki Trio press pack standing up showing three pages
 imagedescription: Ibuki Trio press pack
 client: Ibuki Trio

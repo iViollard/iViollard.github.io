@@ -3,11 +3,12 @@ layout: item
 title: Christopher Mollard | Karybdis press pack
 portfoliotitle: Karybdis press pack
 smalldesc: Designing a press pack for promotional use
-imageurl: assets_CM/images/Portfolio-KarybdisPressPack.png
+imageurl: /assets_CM/images/Portfolio-KarybdisPressPack.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-KarybdisPressPack.png
 imagealt: Karybdis press pack standing up showing three pages
 imagedescription: Karybdis press pack
 client: Karybdis
-date: 2013-11-01
+date: November 2013
 tags: [MARKETING]
 ---
 <h4>Some background</h4>

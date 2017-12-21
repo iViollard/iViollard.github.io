@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Christopher Mollard portfolio website
 portfoliotitle: Christopher Mollard portfolio website
 smalldesc: Designing and building a website for a portfolio to showcase my user experience design work and projects
-imageurl: assets_CM/images/Portfolio-ChristopherMollardWebsite.png
+imageurl: /assets_CM/images/Portfolio-ChristopherMollardWebsite.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-ChristopherMollardWebsite.png
 imagealt: Screenshots of Christopher Mollard website home page mocked up on an iMac, iPad (landscape) and iPhone
 imagedescription: Christopher Mollard portfolio website overview
 client: Christopher Mollard

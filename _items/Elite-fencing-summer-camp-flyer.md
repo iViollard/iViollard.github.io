@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Elite fencing summer camp flyer
 portfoliotitle: Elite fencing summer camp flyer
 smalldesc: Designing flyers for the Allstar-Uhlmann high performance summer camp
-imageurl: assets_CM/images/Portfolio-FencingCampFlyer.png
+imageurl: /assets_CM/images/Portfolio-FencingCampFlyer.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-FencingCampFlyer.png
 imagealt: Elite fencing summer camp flyer mocked up
 imagedescription: Elite fencing summer camp flyer mocked up
 client: Fencers Club London
@@ -27,6 +28,3 @@ To come.  The final design can be seen below.
 
 <div class="dividewhite4"></div>
 <!-- /Post Content -->
-</div>
-
-</div>

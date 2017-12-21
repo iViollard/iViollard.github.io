@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Fencers Club London Website
 portfoliotitle: Fencers Club London Website
 smalldesc: Designing and building a website for a new elite fencing club making their mark on the international scene
-imageurl: assets_CM/images/Portfolio-FCLWebsite.png
+imageurl: /assets_CM/images/Portfolio-FCLWebsite.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-FCLWebsite.png
 imagealt: Fencers Club London website displayed on an iPhone, iPad and iMac
 imagedescription: Fencers Club London responsive website overview
 client: Fencers Club London
@@ -56,6 +57,3 @@ I identified the prospective users of the new site:
 <p>The final website can be viewed at <a href="https://www.fencersclublondon.com/" target="_blank">fencersclublondon.com/</a></p>
 <div class="dividewhite4"></div>
 <!-- /Post Content -->
-</div>
-
-</div>

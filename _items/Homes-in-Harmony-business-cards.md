@@ -3,7 +3,8 @@ layout: item
 title: Christopher Mollard | Homes in Harmony Business Cards
 portfoliotitle: Homes in Harmony Business Cards
 smalldesc: Designing business cards for an ecological home building company
-imageurl: assets_CM/images/Portfolio-HomesInHarmonyBusinessCard.png
+imageurl: /assets_CM/images/Portfolio-HomesInHarmonyBusinessCard.png
+largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-HomesInHarmonyBusinessCard.png
 imagealt: Homes in Harmony business cards stacked showing front and back
 imagedescription: Homes in Harmony business cards
 client: Homes in Harmony
