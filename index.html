@@ -40,45 +40,6 @@ title: Christopher Mollard | Home
                             Most importantly I want to help people in their day to day - I want to make a difference in the world.</p>
                     </div>
 
-                    <!--
-                  <div class="col-md-4 infoblock nopadding">
-                     <div class="row">
-                        <div class="col-xs-12 col-sm-1 col-md-3"><i class="flaticon-clocks18 color-blue"></i><div class="dividewhite1"></div></div>
-                        <div class="col-xs-12 col-sm-11 col-md-9">
-                           <h4 class="font-accident-two-medium uppercase">Modern</h4>
-                           <p class="">
-                              The Gridus Resume Template has an unique modern flat intuitive design. You can choose one of 8 Color schemes.
-                           </p>
-                        </div>
-                     </div>
-                     <div class="divider-dynamic"></div>
-                  </div>
-                  <div class="col-md-4 infoblock nopadding">
-                     <div class="row">
-                        <div class="col-xs-12 col-sm-1 col-md-3"><i class="flaticon-pie-graph color-blue"></i><div class="dividewhite1"></div></div>
-                        <div class="col-xs-12 col-sm-11 col-md-9">
-                           <h4 class="font-accident-two-medium uppercase">Simple CV</h4>
-                           <p class="">
-                              Gridus Personal Template is the simple, clean and stylish fully-responsive resume theme with modern creative design.
-                           </p>
-                        </div>
-                     </div>
-                     <div class="divider-dynamic"></div>
-                  </div>
-                  <div class="col-md-4 infoblock nopadding">
-                     <div class="row">
-                        <div class="col-xs-12 col-sm-1 col-md-3"><i class="flaticon-tool-1 color-blue"></i><div class="dividewhite1"></div></div>
-                        <div class="col-xs-12 col-sm-11 col-md-9">
-                           <h4 class="font-accident-two-medium uppercase">Responsive</h4>
-                           <p class="">
-                              Works fast and looks fine on any device with the wide range of the screen resolution. Supports all the Google SEO rules.
-                           </p>
-                        </div>
-                     </div>
-                     <div class="divider-dynamic"></div>
-                  </div>
-                    -->
-
                 </div>
             </div>
         </div>
@@ -137,6 +98,40 @@ title: Christopher Mollard | Home
     </div>
     <!-- /Personal Flexy Section -->
 
+</section>
+
+<section class="works" data-section="portfolio">
+    <div class="row row-no-padding">
+        <div class="grid text-center">
+            <div id="posts" class="row popup-container">
+                
+                
+                
+                {% for item in site.items %}
+                <div class="grid-item grid-sizer web marketing col-lg-3 col-md-4 col-sm-6 {% for tag in item.tags %} {{ tag }} {% endfor %}">
+                    <div class="item-wrap nopadding">
+                        <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="600" data-animation-distance="100px">
+                            <div class="popup-call">
+                                <a href="{{ item.url }}" class="gallery-item"><i class="flaticon-arrows-4"></i></a>
+                            </div>
+                            <img src="{{ item.imageurl }}" class="img-responsive'" alt="{{ item.imagealt }}" />
+                            <figcaption>
+                                <div class="fig-description">
+                                    <h3>{{ item.portfoliotitle }}</h3>
+                                    <p>{{ item.tags }}</p>
+                                </div>
+                                <a href="{{ item.url }}"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+                {% endfor %}
+                
+                
+                
+            </div>
+        </div>
+    </div>
 </section>
 
 <section id="professional" class="container-fluid" data-section="home">

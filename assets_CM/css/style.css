@@ -3282,3 +3282,7 @@ footer.light {
     font-size: 32px; } }
 
 /*# sourceMappingURL=style.css.map */
+
+section.works {
+    min-height:205px;
+}
