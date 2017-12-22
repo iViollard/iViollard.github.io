@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-AllstarUhlmann
 imagealt: Allstar Uhlmann logo on a shop sign
 imagedescription: The narrow version of the new Allstar Uhlmann UK Logo mocked up on a shop sign
 client: Allstar Uhlmann UK
-date: 2016-06-01
-tags: [LOGOS, MARKETING]
+when: June 2016
+tags: [Logos, Marketing]
+filter: [logo, marketing]
 ---
 <h4>Some background</h4>
 <p>

@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-KarybdisPressP
 imagealt: Karybdis press pack standing up showing three pages
 imagedescription: Karybdis press pack
 client: Karybdis
-date: November 2013
-tags: [MARKETING]
+when: November 2013
+tags: [Marketing]
+filter: [marketing]
 ---
 <h4>Some background</h4>
 <p>

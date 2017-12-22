@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-HomesInHarmony
 imagealt: Homes in Harmony business cards stacked showing front and back
 imagedescription: Homes in Harmony business cards
 client: Homes in Harmony
-date: 2017-02-01
-tags: [MARKETING]
+when: February 2017
+tags: [Marketing]
+filter: [marketing]
 ---
 <h4>Some background</h4>
 <p>

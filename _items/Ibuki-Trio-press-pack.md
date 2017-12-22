@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-IbukiTrioPress
 imagealt: Ibuki Trio press pack standing up showing three pages
 imagedescription: Ibuki Trio press pack
 client: Ibuki Trio
-date: 2014-01-01
-tags: [MARKETING]
+when: January 2014
+tags: [Marketing]
+filter: [marketing]
 ---
 <h4>Some background</h4>
 <p>

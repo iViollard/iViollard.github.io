@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-ScottishMask.J
 imagealt: Fencing mask with a Scottish flag
 imagedescription: The final design for the Scottish fencing mask
 client: Scottish Fencing Association
-date: 2016-06-01
-tags: [PRODUCT DESIGN, MARKETING]
+when: June 2016
+tags: [Product design, Marketing]
+filter: [productDesign, marketing]
 ---
 <h4>Some background</h4>
 <p>

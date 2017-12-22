@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-AceofHeartsWeb
 imagealt: Ace of Hearts Fun casino displayed on an iPhone, iPad and iMac
 imagedescription: Ace of Hearts Fun Casino responsive website overview
 client: Ace of Hearts fun casino
-date: 2017-02-01
-tags: [WEBSITE DESIGN]
+when: February 2017
+tags: [Website design]
+filter: [web]
 ---
 <h4>Some background</h4>
 <p>

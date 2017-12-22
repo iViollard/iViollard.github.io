@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-J4GDsignLogoMo
 imagealt: J4G Design logo on the top of an invoice, you can only see the corner
 imagedescription: J4G Design Ltd logo on an invoice
 client: J4G Design Ltd
-date: 2014-05-01
-tags: [MARKETING, LOGOS]
+when: May 2014
+tags: [Marketing, Logos]
+filter: [marketing, logo]
 ---
 <h4>Some background</h4>
 <p>

@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-ChristopherMol
 imagealt: Screenshots of Christopher Mollard website home page mocked up on an iMac, iPad (landscape) and iPhone
 imagedescription: Christopher Mollard portfolio website overview
 client: Christopher Mollard
-date: 2017-03-01
-tags: [WEBSITE DESIGN]
+when: March 2017
+tags: [Website design]
+filter: [web]
 ---
 <h4>Some background</h4>
 <p>

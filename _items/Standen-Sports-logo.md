@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-StandenSportsL
 imagealt: Standen Sports Ltd logo mocked up on the top right hand corner of an invoice
 imagedescription: Standen Sports Ltd logo on an invoice
 client: Standen Sports Ltd
-date: 2017-05-01
-tags: [MARKETING, LOGOS]
+when: May 2017
+tags: [Marketing, Logos]
+filter: [marketing, logo]
 ---
 <h4>Some background</h4>
 <p>

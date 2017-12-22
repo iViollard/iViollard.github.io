@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-FCLWebsite.png
 imagealt: Fencers Club London website displayed on an iPhone, iPad and iMac
 imagedescription: Fencers Club London responsive website overview
 client: Fencers Club London
-date: 2015-09-01
-tags: [WEBSITE DESIGN]
+when: September 2015
+tags: [Website design]
+filter: [web]
 ---
 <h4>Some background</h4>
 <p>

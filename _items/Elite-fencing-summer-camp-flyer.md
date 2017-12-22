@@ -8,8 +8,9 @@ largerimageurl: /assets_CM/images/PortfolioImagesLarger/Portfolio-FencingCampFly
 imagealt: Elite fencing summer camp flyer mocked up
 imagedescription: Elite fencing summer camp flyer mocked up
 client: Fencers Club London
-date: 2015-03-01
-tags: [MARKETING]
+when: March 2015
+tags: [Marketing]
+filter: [marketing]
 ---
 <h4>Some background</h4>
 <p>

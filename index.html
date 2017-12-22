@@ -118,7 +118,7 @@ title: Christopher Mollard | Home
                             <figcaption>
                                 <div class="fig-description">
                                     <h3>{{ item.portfoliotitle }}</h3>
-                                    <p>{{ item.tags }}</p>
+                                    <p>{% for tag in item.tags %} #{{ tag }} {% endfor %}</p>
                                 </div>
                                 <a href="{{ item.url }}"></a>
                             </figcaption>
