@@ -100,39 +100,34 @@ title: Christopher Mollard | Home
 
 </section>
 
-<section class="works" data-section="portfolio">
-    <div class="row row-no-padding">
-        <div class="grid text-center">
-            <div id="posts" class="row popup-container">
-                
-                
-                
-                {% for item in site.items %}
-                <div class="grid-item grid-sizer web marketing col-lg-3 col-md-4 col-sm-6 {% for tag in item.tags %} {{ tag }} {% endfor %}">
-                    <div class="item-wrap nopadding">
-                        <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="600" data-animation-distance="100px">
-                            <div class="popup-call">
-                                <a href="{{ item.url }}" class="gallery-item"><i class="flaticon-arrows-4"></i></a>
-                            </div>
-                            <img src="{{ item.imageurl }}" class="img-responsive'" alt="{{ item.imagealt }}" />
-                            <figcaption>
-                                <div class="fig-description">
-                                    <h3>{{ item.portfoliotitle }}</h3>
-                                    <p>{% for tag in item.tags %} #{{ tag }} {% endfor %}</p>
-                                </div>
-                                <a href="{{ item.url }}"></a>
-                            </figcaption>
-                        </figure>
-                    </div>
-                </div>
-                {% endfor %}
-                
-                
-                
+<!-- Blog carousel start -->
+<section id="owl-carousel" data-section="owl-carousel"
+               data-animation-origin="bottom"
+               data-animation-duration="500"
+               data-animation-delay="400"
+               data-animation-distance="100px">
+         <div class="owl-carousel owl-theme">
+             {% for post in site.posts limit:5 %}
+               <div class="item">
+                  <div class="feat-post text-center">
+                     <div class="feat-wrapper">
+                        <div class="feat-metas">
+                           <p href="#!" class="meta-date">{{ post.date | date_to_string }}</p>in <a href="blog.html" class="meta-cat">blog</a>
+                           <h3 class="font-accident-two-normal text-nowrap color-red">{{ post.blogtitle }}</h3>
+                           <hr>
+                           <p>{% for tag in post.tags %} {{ tag }}, {% endfor %}</p>
+                           <div class="morelink"><a href="{{ post.url }}" class="red">read blog post</a></div>
+                        </div>
+                     </div>
+                  </div>
+                  <img src="assets_CM/images/carousel-01-1.jpg" class="img-responsive" alt="01">
+               </div>
+             {% endfor %}
             </div>
-        </div>
-    </div>
-</section>
+         <div class="e-divider-6"></div>
+      </section>
+
+<!-- Blog carousel ends -->
 
 <section id="professional" class="container-fluid" data-section="home">
 
@@ -279,3 +274,32 @@ title: Christopher Mollard | Home
     </div>
 
 </section>
+<!-- Portfolio items begin -->
+<section class="works" data-section="portfolio">
+    <div class="row row-no-padding">
+        <div class="grid text-center">
+            <div id="posts" class="row popup-container">
+                {% for item in site.items %}
+                <div class="grid-item grid-sizer web marketing col-lg-3 col-md-4 col-sm-6 {% for tag in item.tags %} {{ tag }} {% endfor %}">
+                    <div class="item-wrap nopadding">
+                        <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="600" data-animation-distance="100px">
+                            <div class="popup-call">
+                                <a href="{{ item.url }}" class="gallery-item"><i class="flaticon-arrows-4"></i></a>
+                            </div>
+                            <img src="{{ item.imageurl }}" class="img-responsive'" alt="{{ item.imagealt }}" />
+                            <figcaption>
+                                <div class="fig-description">
+                                    <h3>{{ item.portfoliotitle }}</h3>
+                                    <p>{% for tag in item.tags %} #{{ tag }} {% endfor %}</p>
+                                </div>
+                                <a href="{{ item.url }}"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Portfolio items end -->
