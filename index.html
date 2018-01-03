@@ -116,11 +116,11 @@ title: Christopher Mollard | Home
                            <h3 class="font-accident-two-normal text-nowrap color-red">{{ post.blogtitle }}</h3>
                            <hr>
                            <p>{% for tag in post.tags %} {{ tag }}, {% endfor %}</p>
-                           <div class="morelink"><a href="{{ post.url }}" class="red">read blog post</a></div>
+                           <div class="morelink"><a href="{{ post.url }}" class="btn btn-wh-trans btn">Read blog post</a></div>
                         </div>
                      </div>
                   </div>
-                  <img src="assets_CM/images/carousel-01-1.jpg" class="img-responsive" alt="01">
+                  <img src="{{ post.carouselimgurl }}" class="img-responsive" alt="01 - {{ post.carouselimgalt }}">
                </div>
              {% endfor %}
             </div>

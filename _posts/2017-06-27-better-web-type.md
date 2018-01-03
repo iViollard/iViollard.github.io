@@ -3,7 +3,9 @@ layout: post
 title: Christopher Mollard | Better web type
 blogtitle: Better web type
 imageurl: /assets_CM/images/BetterWebType.jpg
-imagealt: A red triangle on a white background. The red triangle represents the equilateral triangle of the perfect paragraph
+imagealt: A red triangle on a white background. The red triangle represents the equilateral triangle of the perfect paragraph.
+carouselimgurl: /assets_CM/images/PostCarouselBGs/BetterWebType.png
+carouselimgalt: A red triangle on a white background. The red triangle represents the equilateral triangle of the perfect paragraph.
 imagedescription: Web learning has really helped me become a better designer.
 smalldesc: A tool to help you understand the balance of typed paragraphs
 date: 2017-06-27

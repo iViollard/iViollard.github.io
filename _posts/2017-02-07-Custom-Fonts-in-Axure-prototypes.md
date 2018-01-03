@@ -4,6 +4,8 @@ title: Christopher Mollard | Custom fonts in Axure prototypes
 blogtitle: Custom fonts in Axure prototypes
 imageurl: /assets_CM/images/aquaticocustomfont.jpg
 imagealt: Aquatico font on a black background with blue flames below.
+carouselimgurl: /assets_CM/images/PostCarouselBGs/Aquatico.png
+carouselimgalt: Aquatico font on a black background.
 imagedescription: Aquatico have now made it possible to embed custom fonts in Axure!
 smalldesc: Custom fonts in Axure have always been a little tricky but I have found a solution!
 date: 2017-02-07
