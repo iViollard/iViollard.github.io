@@ -299,92 +299,22 @@ End of the achievements section -->
                 <h3 class="font-accident-two-normal uppercase">Professional Timeline</h3>
                 <div class="dividewhite1"></div>
             </div>
-
             <div class="dividewhite4"></div>
-
             <ul class="timeline-vert timeline">
-                <li>
+                {% for job in site.jobs %}
+                <li id="{{ job.anchorID }}" class="{{ job.classes }}">
                     <div class="timeline-badge primary"><i class="flaticon-pens15"></i></div>
                     <div class="timeline-panel" data-animation-origin="left" data-animation-duration="400" data-animation-delay="400" data-animation-distance="25px">
-                        <p class="timeline-time fontcolor-invert">Sept 2016 - present</p>
-                        <div class="timeline-photo timeline-samuel-01"></div>
+                        <p class="timeline-time fontcolor-invert">{{ job.datestarted }} - {{ job.datefinished }}</p>
+                        <div class="timeline-photo {{ job.imagecss }}"></div>
                         <div class="timeline-heading">
-                            <h4 class="font-accident-two-normal uppercase"><a href="http://www.j4gdesign.co.uk" target="_blank" class="timeline-header-link">J4G Design, London</a></h4>
-                            <h6 class="uppercase">Company director and UX Design contractor</h6>
-                            <p>
-                                I decided to branch out so that I could focus on doing great work for clients and being able to dedicate time properly without the split that comes with being a consultant. By becoming a UX Contractor I have been able to give myself time to be more focussed on the work I deliver and the means to do a great job. I focus on all aspects of the UX spectrum from conception, definition, research, and delivery. I find fascinating insights, create useful wireframes and beautiful designs as well as working with developers and testers for high quality build and implementation that is on time and in line with user's needs.
-
-                                </br>
-                                </br>
-
-                                I strive to be involved in the wider world of UX by attending Meet Up events and staying involved with the Product Design course at Brunel University. I am a guest lecturer on User Experience and attend <a href="http://madeinbrunel.com/" target="_blank">Made In Brunel</a> every year.
-                            </p>
+                            <h4 class="font-accident-two-normal uppercase"><a href="{{ job.companyurl }}" target="_blank" class="timeline-header-link">{{ job.companytitle }}, {{ job.location }}</a></h4>
+                            <h6 class="uppercase">{{ job.jobtitle }}</h6>
+                            {{ job.content }}
                         </div>
                     </div>
                 </li>
-                <li class="timeline-inverted">
-                    <div class="timeline-badge success"><i class="flaticon-pens15"></i></div>
-                    <div class="timeline-panel" data-animation-origin="right" data-animation-duration="400" data-animation-delay="400" data-animation-distance="25px">
-                        <p class="timeline-time fontcolor-invert">Sept 2013 - Sept 2016</p>
-                        <div class="timeline-photo timeline-samuel-02"></div>
-                        <div class="timeline-heading">
-                            <h4 class="font-accident-two-normal uppercase"><a href="http://www.paconsulting.com/" target="_blank" class="timeline-header-link">PA Consulting, London</a></h4>
-                            <h6 class="uppercase">Senior UX Designer and Consultant</h6>
-                            <p>
-                                My role keeps me involved in every stage of a project’s lifecycle, usually as User Experience lead and integrating UX with Agile development. As a leading member of PA’s UX Capability I have been responsible for graduate recruitment, UX promotion and events and working with key business stakeholders to create exciting and innovative opportunities to showcase UX for what it should really mean to a business.
-
-                                </br>
-                                </br>
-
-                                Following a User-Centred Design approach I plan and run workshops with clients, stakeholders and users to determine the functional requirements of a product or concept to best understand both the business and user needs. I provide conceptual designs to vision my understanding, the fidelity of which may depend on the project. Working in the Digital Business sector means that I usually provide design iterations (Axure wireframes or pixel perfect images) - fed by validations through usability testing - although I also enjoy working as a front end developer - often writing code to bridge the gap between the design and development teams and assist the development teams wherever I can.
-
-                                </br>
-                                </br>
-
-                                Much of my experience has been working within Agile and using the Scrum methodology, specifically being a lead UX designer or front end developer on a project. I am also a Certified ScrumMaster and enjoy the role, finding it’s purpose and results in the team quite satisfying.
-
-                                </br>
-                                </br>
-
-                                I joined in 2013 at the rank of Analyst (junior) and was promoted twice in two years to reach the rank of Consultant (mid-senior).
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="info">
-                    <div class="timeline-badge"><i class="flaticon-pens15"></i></div>
-                    <div class="timeline-panel" data-animation-origin="right" data-animation-duration="400" data-animation-delay="400" data-animation-distance="25px">
-                        <p class="timeline-time fontcolor-invert">June 2013 - Aug 2013</p>
-                        <div class="timeline-photo timeline-samuel-03"></div>
-                        <div class="timeline-heading">
-                            <h4 class="font-accident-two-normal uppercase"><a href="http://www.adgistics.com/#welcome" target="_blank" class="timeline-header-link">Adgistics, London</a></h4>
-                            <h6 class="uppercase">UX Designer</h6>
-                            <p>
-                                I created visual designs and templates for the Adgistics website in a period of growth for the company. Working with other designers and developers I created engaging and compelling wireframes and visual designs.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="timeline-inverted info">
-                    <div class="timeline-badge warning"><i class="flaticon-pens15"></i></div>
-                    <div class="timeline-panel" data-animation-origin="right" data-animation-duration="400" data-animation-delay="400" data-animation-distance="25px">
-                        <p class="timeline-time fontcolor-invert">Aug 2011 - July 2012</p>
-                        <div class="timeline-photo timeline-samuel-04"></div>
-                        <div class="timeline-heading">
-                            <h4 class="font-accident-two-normal uppercase"><a class="timeline-header-link" href="http://www.betfair.com" target="_blank">Betfair, London</a></h4>
-                            <h6 class="uppercase">UX Intern</h6>
-                            <p>
-                                Having started as an intern, the first few months were spent shadowing designers to understand established processed between teams. I rotated between Interaction Design, Visual Design and Customer Experience. In each team I worked on wireframes, visual designs and with developers to deliver projects successfully and on time across desktop, mobile and mobile web platforms.
-
-                                </br>
-                                </br>
-
-                                By the end of the internship I had been offered a contract extension and was working as a Junior Visual Designer. Responsibilities included leading designs on several projects, several of which went live on <a href="www.betfair.com" target="_blank">Betfair.com</a>.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-
+                {% endfor %}
             </ul>
 
             <div class="dividewhite6"></div>
