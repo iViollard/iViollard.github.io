@@ -213,7 +213,7 @@ h3.steps {
     margin: 40px 0;
 }
 
-.owl-carousel.owl-theme img, div#blog #posts .grid-item.grid-sizer img, div#portfolio #posts .grid-item.grid-sizer img {
+.owl-carousel.owl-theme img, div#blog #posts .grid-item.grid-sizer img, div#portfolio #posts .grid-item.grid-sizer img, section.works img {
     object-position: 50% 50%;
     object-fit: cover;
 }
@@ -228,7 +228,12 @@ div#blog #posts .grid-item.grid-sizer img {
     width: 100%;
 }
 
-div#portfolio #posts .grid-item.grid-sizer img {
+div#portfolio #posts img {
     height:282.5px;
     width: 282.5px;
+}
+
+section.works img {
+    height:315px;
+    width: 315px;
 }
