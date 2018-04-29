@@ -14,13 +14,13 @@ filter: [marketing, logo]
 ---
 <h4>Some background</h4>
 <p>
-To come.
+Mr. Standen is a personal friend who asked me to design a logo for his sports company.  He is primarily a fencing coach and athlete and wanted a logo that would provide customers with a sense of his personality as well as what he does.
 </p>
 
 <h4>The brief</h4>
 
 <p>
-To come.
+Design a logo that can be the face of my sports company.  It should be involve fencing weapons in some way and be clean, as well as getting across that the company relates to fencing.
 </p>
 <h4>The process</h4>
 <p>
