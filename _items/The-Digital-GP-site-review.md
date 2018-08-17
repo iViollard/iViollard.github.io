@@ -24,9 +24,9 @@ Review <a href="https://www.thedigitalgp.com/" target="_blank">The Digital GP we
 </p>
 <h4>The process</h4>
 <p>
-I started by taking screenshots of every page on the site, which turned out to be a grand total of two, so that I could quickly make comments on what worked well and what could be done better as a quick fix.
+I started by taking screenshots of every page on the site, which turned out to be a grand total of two, so that I could quickly make comments on what worked well and what could be done better as a quick fix.</p>
 
-<strong>Let's start with the pros:</strong>
+<p><strong>Let's start with the pros:</strong></p>
 <ol>
     <li>Immediately putting a face to the name - site visitors are interested in who this is</li>
     <li>The blog post layout is great: clear and easy to read</li>
@@ -47,5 +47,5 @@ I started by taking screenshots of every page on the site, which turned out to b
 <img src="/assets_CM/images/Portfolio-HomeComments.png" class="img-responsive" alt="A screenshot of the home page with comment numbers on">
 <p class="imgCaption">A screenshot of the home page with comment numbers on</p>
 
-More to come...
+<p>More to come...
 </p>

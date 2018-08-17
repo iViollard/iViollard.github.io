@@ -22,22 +22,23 @@ title: Christopher Mollard | Home
                 <div class="row nopadding">
                     <div class="col-xs-12 nopadding">
                         <p>
-                            I look for opportunities to create exciting and innovative user experiences and designs, picking up on things that annoy me to see if I can find a better way.
+                            I look for opportunities to create exciting and innovative user experiences and designs - working primarily as an interaction designer with hybrid research and development skills.
 
                             </br>
                             </br>
 
-                            Following a User-Centred Design approach I plan and run workshops with clients, stakeholders and users to determine the functional requirements of a product or concept to best understand both the business and user needs. I provide conceptual designs to vision my understanding, and provide design iterations. I also enjoy working as a front end developer.
+                            I follow a user-centred-design approach to make sure that the user is put first no matter what is being built. Workshops, interviews and other forms of research are essential to making sure that the designs are informed and are usable to those who will be using them.
 
                             </br>
                             </br>
 
-                            Much of my experience has been working within Agile and using the Scrum methodology, specifically being a lead UX designer or front end developer on projects. I am also a Certified ScrumMaster and enjoy the role, finding it’s purpose and results in the team quite satisfying.
-
+                            I create designs, coded prototypes, flat designs and user journeys - whichever is most appropriate to the job at hand and have lots of experience being a part of teams working in Agile and SAFe. I have led UX as well as Scrum teams and worked as a sole designer/researcher/prototyper on projects.
+        
                             </br>
                             </br>
 
-                            Most importantly I want to help people in their day to day - I want to make a difference in the world.</p>
+                            <strong>Fencing is a big part of my life - I have been selected for the Scottish team competing at the Commonwealth Games in Australia and was recently picked to compete at the Tokyo World cup for team GBR.</strong>
+                        </p>
                     </div>
 
                 </div>
@@ -101,31 +102,27 @@ title: Christopher Mollard | Home
 </section>
 
 <!-- Blog carousel start -->
-<section id="blog owl-carousel" data-section="owl-carousel"
-               data-animation-origin="bottom"
-               data-animation-duration="500"
-               data-animation-delay="400"
-               data-animation-distance="100px">
-         <div class="owl-carousel owl-theme">
-             {% for post in site.posts limit:5 %}
-               <div class="item">
-                  <div class="feat-post text-center">
-                     <div class="feat-wrapper">
-                        <div class="feat-metas">
-                           <p href="#!" class="meta-date">{{ post.date | date_to_string }}</p>in <a href="blog.html" class="meta-cat">blog</a>
-                           <h3 class="font-accident-two-normal text-nowrap color-red">{{ post.blogtitle }}</h3>
-                           <hr>
-                           <p>{% for tag in post.tags %} {{ tag }}, {% endfor %}</p>
-                           <div class="morelink"><a href="{{ post.url }}" class="btn btn-wh-trans btn">Read blog post</a></div>
-                        </div>
-                     </div>
-                  </div>
-                  <img src="{{ post.carouselimgurl }}" class="img-responsive" alt="01 - {{ post.carouselimgalt }}">
-               </div>
-             {% endfor %}
+<section id="blog owl-carousel" data-section="owl-carousel" data-animation-origin="bottom" data-animation-duration="500" data-animation-delay="400" data-animation-distance="100px">
+    <div class="owl-carousel owl-theme">
+        {% for post in site.posts limit:5 %}
+        <div class="item">
+            <div class="feat-post text-center">
+                <div class="feat-wrapper">
+                    <div class="feat-metas">
+                        <p href="#!" class="meta-date">{{ post.date | date_to_string }}</p>in <a href="blog.html" class="meta-cat">blog</a>
+                        <h3 class="font-accident-two-normal text-nowrap color-red">{{ post.blogtitle }}</h3>
+                        <hr>
+                        <p>{% for tag in post.tags %} {{ tag }}, {% endfor %}</p>
+                        <div class="morelink"><a href="{{ post.url }}" class="btn btn-wh-trans btn">Read blog post</a></div>
+                    </div>
+                </div>
             </div>
-         <div class="e-divider-6"></div>
-      </section>
+            <img src="{{ post.carouselimgurl }}" class="img-responsive" alt="01 - {{ post.carouselimgalt }}">
+        </div>
+        {% endfor %}
+    </div>
+    <div class="e-divider-6"></div>
+</section>
 
 <!-- Blog carousel ends -->
 
