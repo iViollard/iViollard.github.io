@@ -54,7 +54,7 @@
 
     <!-- Cabin font -->
     <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
-    
+
 </head>
 
 <body id="samuel" class="boxed">
@@ -84,7 +84,6 @@
                     </div>
                     <div class="row nopadding position">
                         <div class="col-md-10 position-title">
-
                             <section class="cd-intro">
                                 <h2 class="cd-headline clip is-full-width font-accident-two-light">
                                     <span>User Experience </span>
@@ -99,11 +98,9 @@
                             </section>
 
                         </div>
-                        <!--
-                <div class="col-md-2 nopadding pdf">
-                  <a href="https://github.com/iViollard?tab=repositories" target="_blank" class="hvr-sweep-to-right"><i class="flaticon-linkedin22" title="My Git Hub repositories profile"></i></a>
-               </div>
-                -->
+                        <!-- <div class="col-md-2 nopadding pdf">
+                            <a href="https://github.com/iViollard?tab=repositories" target="_blank" class="hvr-sweep-to-right"><i class="flaticon-linkedin22" title="My Git Hub repositories profile"></i></a>
+                        </div>  -->
                         <div class="col-md-2 nopadding pdf">
                             <a href="https://www.linkedin.com/in/christopher-mollard-b5952137/" target="_blank" class="hvr-sweep-to-right"><i class="flaticon-linkedin22" title="My LinkedIn profile"></i></a>
                         </div>
@@ -169,9 +166,7 @@
             </div>
         </div>
     </footer>
-{% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-{% endif %}
+    {% if jekyll.environment == 'production' %} {% include analytics.html %} {% endif %}
 </body>
 
 </html>
