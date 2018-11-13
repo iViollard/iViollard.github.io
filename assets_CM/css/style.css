@@ -1860,7 +1860,6 @@ figure.effect-goliath {
     border-color: #e74c3c transparent;
     opacity: 1; }
 #portfolio .port-filter-light ul li a, #blog .port-filter-light ul li a, #portfolio-item-page .port-filter-light ul li a {
-  background: #f7f7f7;
   color: #3f3f3f; }
   #portfolio .port-filter-light ul li a:after, #blog .port-filter-light ul li a:after, #portfolio-item-page .port-filter-light ul li a:after {
     border-color: #fff transparent; }
@@ -2488,7 +2487,9 @@ section {
 */
 /* ------------------------------------ Content Container */
 .inner-content .inner-section {
-  padding: 40px 20px; }
+  padding: 40px 20px;
+    background-color: #eff2f2;
+}
 .inner-content .inner-block {
   padding: 0 60px; }
 
@@ -3287,4 +3288,8 @@ section.works {
 
 section#page-title.inner-section h4 {
     margin:15px 0 30px 0;
+}
+
+div#isotope-filters ul li a {
+    background-color: #ffffff;
 }
