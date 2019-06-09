@@ -25,5 +25,5 @@ Design, build and continuously test a new, fully responsive, portfolio website f
 <h4>The process</h4>
 <p>
 
-To come. The final product can be viewed at <a href="http://www.cmollard.co.uk/" target="_blank">cmollard.co.uk</a>.
+To come. The final product can be viewed at <a href="http://www.cmollard.co.uk/" target="_blank">cmollard.co.uk</a> and the project, including source code, is available on <a href="https://github.com/iViollard/iViollard.github.io" target="_blank">GitHub</a>.
 </p>

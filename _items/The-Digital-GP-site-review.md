@@ -9,8 +9,8 @@ imagealt: A screenshot of The Digital GP's homepage, as it was before the review
 imagedescription: A screenshot of The Digital GP's homepage, as it was before the review.
 client: The Digital GP
 when: January 2018
-tags: [Marketing]
-filter: [marketing]
+tags: [Marketing, Website design]
+filter: [marketing, web]
 ---
 <h4>Some background</h4>
 <p>
