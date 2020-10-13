@@ -35,11 +35,6 @@ The process I am a competitive fencer and have been on the scene for a little wh
 <p class="imgCaption">Mask designs from Leon Paul, image from the <a href="https://www.leonpaul.com/blog/the-story-of-the-flag-mask-and-how-to-make-your-own/" target="_blank">Leon Paul website</a>.</p>
 <div class="dividewhite2"></div>
 </div>
-<div class="col-md-12 col-sm-12 col-xs-12">
-<img src="/assets_CM/images/americanandbritishmasks.jpeg" class="img-responsive" alt="portfolio item">
-<p class="imgCaption">An American and British fencer, image from the <a href="http://www.huffingtonpost.com/entry/olympic-fencing-masks_us_57a8a8ade4b056bad2163eb9" target="_blank">Huffington Post website</a>.</p>
-<div class="dividewhite2"></div>
-</div>
 <div class="col-md-6 col-sm-6 col-xs-6">
 <img src="/assets_CM/images/American%20mask.jpg" class="img-responsive" alt="portfolio item">
 <p class="imgCaption">An American fencer at London 2012</p>
